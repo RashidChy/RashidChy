@@ -4,7 +4,7 @@ I'm a **Full-Stack Software Engineer** who loves building scalable backends with
 
 ---
 
-### 🧠 What I Do
+### -> What I Do
 - ⚙️ Build backend APIs and microservices using **Go (Golang)**
 - 💻 Develop dynamic web apps using **Angular**
 - ☁️ Work with **Docker**, **Kubernetes**, and CI/CD pipelines
@@ -12,7 +12,7 @@ I'm a **Full-Stack Software Engineer** who loves building scalable backends with
 
 ---
 
-### 🚀 Tech Stack
+### -> Tech Stack
 **Backend:** Go, REST APIs, Gin  
 **Frontend:** Angular, TypeScript, HTML, CSS, Tailwind  
 **DevOps:** Docker, Kubernetes  
@@ -20,7 +20,7 @@ I'm a **Full-Stack Software Engineer** who loves building scalable backends with
 
 ---
 
-### 🛠️ Current Focus
+### -> Current Focus
 - Building production-grade Go APIs  
 - Writing clean and testable Angular code  
 - Exploring advanced Kubernetes and CI/CD automation  
